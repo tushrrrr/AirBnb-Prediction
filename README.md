@@ -52,12 +52,19 @@ Performed PCA with 0.9 for the number of component parameters. Scikit Learn choo
 ## MODEL EVALUATION 
 
 LinearRegression 
+
 LogisticRegression 
+
 Ridge Regression 
+
 Lasso Regression
+
 Elastic net
+
 GradientBoosting Regressor 
+
 SVR (Support Vector Regression) 
+
 RandomForestRegressor 
 
 <img width="326" alt="image" src="https://user-images.githubusercontent.com/114719570/204112786-9e3eff47-e8f9-4dd3-a78d-51278f0e31ad.png">
